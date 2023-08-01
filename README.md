@@ -1,1 +1,1 @@
-# window10_winload.exe_error
+# Windows 7,8,10 winload.exe startup error
