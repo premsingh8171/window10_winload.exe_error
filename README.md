@@ -11,7 +11,7 @@
                   bootrec /fixMBR</br>
                   bootrec /fixBoot</br>
                   bootrec /rebuildBCD</br>
-5) Restart the coputer.</br></br></br>
+5) Restart the computer.</br></br></br>
 
 <h2>Created DOC</h2>
 <p>Er.Prem singh daksha  premsingh8171@gmail.com</p>
